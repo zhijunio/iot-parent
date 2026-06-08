@@ -25,7 +25,7 @@
         <mqttv3.version>1.2.5</mqttv3.version>
         <easyexcel.version>4.0.3</easyexcel.version>
         <hutool.version>5.8.46</hutool.version>
-        <weixin-java-miniapp.version>4.8.3-20260606.203133</weixin-java-miniapp.version>
+        <weixin-java-miniapp.version>4.8.3-20260608.175852</weixin-java-miniapp.version>
         <sa-token.version>1.45.0</sa-token.version>
     </properties>
 
